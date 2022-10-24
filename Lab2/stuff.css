@@ -1,0 +1,36 @@
+img {
+    border: 1px solid rgba(66, 62, 62, 0.507);
+    border-radius: 14px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+#poze{
+    display: inline-block;
+    display: inline;
+}
+
+#header{
+    margin-left: 200px;
+    margin-top: 100px;
+   color: blue;
+}
+
+body{
+    background-color: rgb(181, 187, 190);
+}
+
+strong {
+    color: #b84909;
+}
+
+#caine {
+    float: center;
+    width: 33.33%;
+    padding: 5px;
+    display: inline-block;
+}
+
+

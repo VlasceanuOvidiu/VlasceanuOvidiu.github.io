@@ -1,0 +1,25 @@
+form {
+    color: red;
+    font-style: oblique;
+    background-color: #837baf;
+    text-align: center;
+
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    
+  }
+#submit {
+    align-content: center;
+}
+
+
+strong {
+    color: #b84909;
+}
+
+h2{
+    text-align: center;
+}
