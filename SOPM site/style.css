@@ -6,7 +6,7 @@
 }
 
 body{
-  font-family: monterrat;
+  font-family: montserrat, sans-serif;
 }
 
 nav{
@@ -108,5 +108,37 @@ section{
   background: url(bg1.png)no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
+  color:white;
+  font-family: 'Ubuntu',sans-serif;
 }
 
+.container{
+  float:left;
+  height: 60vh;
+  width: 100vw;
+}
+
+.countdown{
+  height: 25vh;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 400px;
+}
+
+.copyright{
+  text-align: center;
+  font-size: 10px;
+  color: #888888;
+}
+
+.timer{
+  color: white;
+  font-size: 100px;
+  font-weight: 400;
+  text-align: center;
+}
+
+h2{
+  color: #FFF;
+  font-size: 42px;
+}
