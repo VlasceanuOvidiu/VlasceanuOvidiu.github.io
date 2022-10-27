@@ -34,6 +34,6 @@ function tick () {
     let time = `${days} : ${hours} : ${mins} : ${secs}`;
 
     // Set time on document
-    document.querySelector('.countdown').innerText = time;
+    document.querySelector('.timer').innerText = time;
   }
 }
